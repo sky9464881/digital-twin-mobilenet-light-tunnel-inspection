@@ -1,6 +1,14 @@
 
 # Digital Twin-based Light Tunnel Inspection System
 > 3D 렌더링 기반 합성 데이터와 온보드 추론 환경을 결합해 자동차 외관 결함을 검사하는 머신 비전 시스템
+<img width="747" height="295" alt="스크린샷 2026-03-26 144259" src="https://github.com/user-attachments/assets/172a3ca5-acc5-49c8-9f54-dd8f7b64d587" />
+
+<img width="1005" height="360" alt="스크린샷 2026-03-26 144345" src="https://github.com/user-attachments/assets/c2ed00cf-6b46-4115-9cdb-287dba5ad9c2" />
+
+
+<img width="950" height="268" alt="스크린샷 2026-03-26 144417" src="https://github.com/user-attachments/assets/3aa2673f-5e97-4144-a79e-79420c962025" />
+
+
 > 최종 결과에 관한 자세한 내용은 results/docs/presentation/머신 비전을 활용한 라이트 터널 검사 시스템 에서 확인 가능합니다
 ## Overview
 본 프로젝트는 자동차 제조 공정의 외관 검사 단계인 **Light Tunnel Inspection**을 머신 비전 기반으로 구현한 프로젝트입니다.  
