@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation><folder>merged</folder><filename>tincase_1440.png</filename><path>C:\smart factory\PythonSrc\Project_InspectionLightTurnnel\vitual_data\merged\tincase_1440.png</path><source><database>Unknown</database></source><size><width>640</width><height>480</height><depth>3</depth></size><segmented>0</segmented><object><name>smash</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>0</ymin><xmax>639</xmax><ymax>479</ymax></bndbox></object></annotation>

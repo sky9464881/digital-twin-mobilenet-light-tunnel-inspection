@@ -1,0 +1,11 @@
+{
+  "name": "power",
+  "author": "Author name",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}

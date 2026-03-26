@@ -1,0 +1,11 @@
+{
+  "name": "cam",
+  "author": "HH Y",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jetsonnano",
+  "author": "HH Y",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}

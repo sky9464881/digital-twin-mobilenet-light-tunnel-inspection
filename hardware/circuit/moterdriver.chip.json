@@ -1,0 +1,21 @@
+{
+  "name": "moterdriver",
+  "author": "",
+  "pins": [
+    "VCC",
+    "GND",
+    "dir",
+    "dir-",
+    "en",
+    "en-",
+    "pulse",
+    "pulse-",
+    "A",
+    "A-",
+    "B",
+    "B-"  
+  
+  
+  ],
+  "controls": []
+}

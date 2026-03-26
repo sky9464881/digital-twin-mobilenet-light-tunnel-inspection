@@ -1,0 +1,15 @@
+../Core/Src/main.c:115:16:button_is_pressed	1
+../Core/Src/main.c:124:13:wait_button_release	2
+../Core/Src/main.c:138:13:all_led_off	1
+../Core/Src/main.c:148:13:stepper_enable	1
+../Core/Src/main.c:156:13:stepper_disable	1
+../Core/Src/main.c:167:13:stepper_move_steps	3
+../Core/Src/main.c:205:13:camera_trigger_once	1
+../Core/Src/main.c:223:13:capture_with_led	1
+../Core/Src/main.c:254:13:run_sequence	1
+../Core/Src/main.c:300:5:main	4
+../Core/Src/main.c:368:6:SystemClock_Config	3
+../Core/Src/main.c:410:13:MX_TIM1_Init	7
+../Core/Src/main.c:485:13:MX_TIM2_Init	4
+../Core/Src/main.c:530:13:MX_GPIO_Init	1
+../Core/Src/main.c:584:6:Error_Handler	1
