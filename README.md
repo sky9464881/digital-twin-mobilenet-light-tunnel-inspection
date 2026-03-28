@@ -9,6 +9,10 @@
 <img width="950" height="268" alt="스크린샷 2026-03-26 144417" src="https://github.com/user-attachments/assets/3aa2673f-5e97-4144-a79e-79420c962025" />
 
 
+
+https://github.com/user-attachments/assets/5d30d7b7-5934-469c-9d1d-ab9335d6a229
+
+
 > 최종 결과에 관한 자세한 내용은 results/docs/presentation/머신 비전을 활용한 라이트 터널 검사 시스템 에서 확인 가능합니다
 ## Overview
 본 프로젝트는 자동차 제조 공정의 외관 검사 단계인 **Light Tunnel Inspection**을 머신 비전 기반으로 구현한 프로젝트입니다.  
