@@ -1,5 +1,10 @@
 
 # Digital Twin-based Light Tunnel Inspection System
+
+
+<img width="524" height="427" alt="image" src="https://github.com/user-attachments/assets/2a28dec9-477f-4d4c-b419-4e681b6642d8" />
+
+
 > 3D 렌더링 기반 합성 데이터와 온보드 추론 환경을 결합해 자동차 외관 결함을 검사하는 머신 비전 시스템
 <img width="747" height="295" alt="스크린샷 2026-03-26 144259" src="https://github.com/user-attachments/assets/172a3ca5-acc5-49c8-9f54-dd8f7b64d587" />
 
