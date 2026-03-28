@@ -9,11 +9,7 @@
 <img width="950" height="268" alt="스크린샷 2026-03-26 144417" src="https://github.com/user-attachments/assets/3aa2673f-5e97-4144-a79e-79420c962025" />
 
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/5d30d7b7-5934-469c-9d1d-ab9335d6a229">
-    <img src="./docs/images/demo-thumbnail.png" alt="demo video" width="600"/>
-  </a>
-</p>
+https://github.com/user-attachments/assets/5d30d7b7-5934-469c-9d1d-ab9335d6a229
 
 <p align="center">
   썸네일 클릭 시 시연 영상을 볼 수 있습니다.
