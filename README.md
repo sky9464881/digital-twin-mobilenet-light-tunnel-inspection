@@ -10,8 +10,9 @@
 
 
 
-https://github.com/user-attachments/assets/5d30d7b7-5934-469c-9d1d-ab9335d6a229
-
+<a href="https://github.com/user-attachments/assets/5d30d7b7-5934-469c-9d1d-ab9335d6a229">
+  <img src="./docs/images/demo-thumbnail.png" alt="demo video" width="500"/>
+</a>
 
 > 최종 결과에 관한 자세한 내용은 results/docs/presentation/머신 비전을 활용한 라이트 터널 검사 시스템 에서 확인 가능합니다
 ## Overview
